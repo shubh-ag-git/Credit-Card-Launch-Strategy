@@ -74,6 +74,7 @@ Open the comprehensive Jupyter notebook to see:
 - Complete code implementation
 
 **📓 [phase1_self.ipynb](./phase1_self.ipynb)** ← *Click here to explore the full analysis for Phase 1*
+
 **📓 [phase_2_atliqo_bank.ipynb](./phase_2_atliqo_bank.ipynb)** ← *Click here to explore the full analysis for Phase 2*
 
 ## 💡 Why This Project Matters
