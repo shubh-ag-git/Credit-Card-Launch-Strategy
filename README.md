@@ -1,9 +1,4 @@
 # ABC Bank Credit Card Launch: Data-Driven Analytics Project
-
-[
-[
-[
-
 ***
 
 ## 🎯 Project Overview
