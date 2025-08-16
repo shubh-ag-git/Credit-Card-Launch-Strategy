@@ -102,6 +102,9 @@ Found this analysis valuable? Have suggestions for improvement?
 🍴 **Fork it** to explore with your own data  
 💬 **Open an issue** for questions or discussions  
 📧 **Connect** for collaboration opportunities  
+📧 **Email**: shagarwalbh@gmail.com  
+💼 **LinkedIn**: [Click Here](https://www.linkedin.com/in/shubh-agarwal-20621224b/)  
+🐙 **GitHub**: [Click Here](https://github.com/shubh-ag-git)
 
 ***
 
