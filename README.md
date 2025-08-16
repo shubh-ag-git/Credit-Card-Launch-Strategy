@@ -73,7 +73,7 @@ Open the comprehensive Jupyter notebook to see:
 - Business impact calculations
 - Complete code implementation
 
-**📓 [phase1_practice.ipynb](./phase1_practice.ipynb)** ← *Click here to explore the full analysis*
+**📓 [phase1_self.ipynb](./phase1_self.ipynb)** ← *Click here to explore the full analysis*
 
 *This notebook contains 500+ lines of Python code, 15+ visualizations, and complete statistical validation of our business strategy.*
 
