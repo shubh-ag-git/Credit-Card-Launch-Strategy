@@ -73,9 +73,8 @@ Open the comprehensive Jupyter notebook to see:
 - Business impact calculations
 - Complete code implementation
 
-**📓 [phase1_self.ipynb](./phase1_self.ipynb)** ← *Click here to explore the full analysis*
-
-*This notebook contains 500+ lines of Python code, 15+ visualizations, and complete statistical validation of our business strategy.*
+**📓 [phase1_self.ipynb](./phase1_self.ipynb)** ← *Click here to explore the full analysis for Phase 1*
+**📓 [phase_2_atliqo_bank.ipynb](./phase_2_atliqo_bank.ipynb)** ← *Click here to explore the full analysis for Phase 2*
 
 ## 💡 Why This Project Matters
 
